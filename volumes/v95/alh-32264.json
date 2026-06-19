@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32264",
+  "name": "El biodrama como dispositivo para transformar las violencias de género en la juventud ecuatoriana",
+  "headline": "El biodrama como dispositivo para transformar las violencias de género en la juventud ecuatoriana",
+  "alternativeHeadline": "Biodrama as a Tool to Transform Gender-Based Violence among Ecuadorian Youth",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Paz Guarderas-Albuja",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Politécnica Salesiana",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Ecuador"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Cynthia Carofilis-Cedeño",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Politécnica Salesiana",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Ecuador"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Carlos Reyes-Valenzuela",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Andina Simón Bolívar",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Ecuador"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Yaderlin Milena Mantilla-Briceño",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad de Málaga",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-11-17",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Las violencias de género en el Ecuador se han intensificado y la juventud reproduce sexismos y concepciones que refuerzan un orden que las legitima. Esta investigación explora el impacto del biodrama La Manzana de Eva en jóvenes. Mediante un estudio exploratorio mixto percepciones más diversas sobre las manifestaciones de la violencia de género y el despliegue de emociones trascendentes tras asistir a la obra teatral. Se discuten las implicaciones de estos resultados para promover procesos de cambio.",
+  "keywords": [
+    "violencia de género",
+    "teatro",
+    "sexismo ambivalente",
+    "emociones trascendentes",
+    "jóvenes",
+    "gender-based violence",
+    "theatre",
+    "ambivalent sexism",
+    "self-transcendent emotions",
+    "youth"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32264",
+  "sameAs": "https://doi.org/10.14201/alh.32264"
+}

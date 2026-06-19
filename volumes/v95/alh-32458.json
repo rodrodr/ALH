@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32458",
+  "name": "Clivajes sin partidos: el populismo y sus votantes en Perú",
+  "headline": "Clivajes sin partidos: el populismo y sus votantes en Perú",
+  "alternativeHeadline": "Cleavages without Parties: Populism and its Voters in Peru",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Rodrigo Barrenechea",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad del Pacífico",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Perú"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Daniel Encinas",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Northwestern",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Estados Unidos"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-12-28",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Perú, pese a su volatilidad electoral y ausencia de partidos estables, presenta un patrón predecible de voto en torno a clivajes socioeconómicos, étnicos y territoriales. Estos favorecen a líderes populistas que movilizan a votantes de la periferia mediante narrativas que reivindican su identidad frente a élites del centro. El artículo demuestra que los clivajes sociales pueden persistir sin partidos estables y que el populismo peruano se arraiga en la periferia y su antagonismo con el centro.",
+  "keywords": [
+    "Populismo",
+    "clivajes",
+    "elecciones",
+    "votantes",
+    "Perú",
+    "Populism",
+    "cleavages",
+    "elections",
+    "voters",
+    "Peru"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32458",
+  "sameAs": "https://doi.org/10.14201/alh.32458"
+}

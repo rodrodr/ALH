@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32228",
+  "name": "Reclutamiento de niños, niñas, adolescentes y jóvenes mexicanos en el crimen organizado: una revisión sistemática de sus causas y consecuencias",
+  "headline": "Reclutamiento de niños, niñas, adolescentes y jóvenes mexicanos en el crimen organizado: una revisión sistemática de sus causas y consecuencias",
+  "alternativeHeadline": "The Recruitment of Mexican Children, Adolescents, and Young People into Organized Crime: A Systematic Review of Causes and Consequences",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Juan Antonio Taguenca Belmonte",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Autónoma del Estado de Hidalgo",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "México"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Robert González García",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Autónoma de Barcelona",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "M.ª del Rocío Vega Budar",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Escuela de Turismo del Instituto Politécnico Nacional",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "México"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-11-17",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Este artículo examina el ingreso de los niños, niñas, adolescentes y jóvenes (NNAJ) en las organizaciones criminales mediante el reclutamiento, la importancia de la narcocultura para que este se dé, cuál es la estructura ocupacional en la que se insertan, las consecuencias principales que este tiene y las medidas que se han tomado para evitarlo, realizando finalmente algunas propuestas al respecto. Metodológicamente, se ha seguido el modelo PRISMA de revisión sistemática de una literatura previamente depurada con base en criterios de selección y que se trabajó conforme a ejes temáticos e indicadores que los desarrollan.",
+  "keywords": [
+    "Reclutamiento NNAJ",
+    "crimen organizado",
+    "narcocultura",
+    "estructura ocupacional",
+    "consecuencias y medidas",
+    "Recruitment of children and adolescents",
+    "organized crime",
+    "narco-culture",
+    "occupational structure",
+    "consequences and measures"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32228",
+  "sameAs": "https://doi.org/10.14201/alh.32228"
+}

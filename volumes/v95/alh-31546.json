@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.31546",
+  "name": "El perfil sociodemográfico de las personas con comportamiento oportunista en Brasil",
+  "headline": "El perfil sociodemográfico de las personas con comportamiento oportunista en Brasil",
+  "alternativeHeadline": "The Social-Demographic Profile of People with Opportunist Behavior in Brazil",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Lilian Lopes Ribeiro",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Federal de Ceará",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Brasil"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Francisca Ana Mara Alves Da Silva",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Federal de Ceará",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Brasil"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Marcelo Miranda Melo",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Federal de Ceará",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Brasil"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-11-17",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "El objetivo del estudio es identificar el perfil sociodemográfico de personas propensas a comportamientos oportunistas en Brasil a partir de datos extraídos de la Encuesta Mundial de Valores. Para ello, se estimó un modelo logit ordenado, seguido del cálculo de efectos marginales. Entre los resultados se observó que, en general, las personas con un bajo nivel de confianza interpersonal, y también un bajo nivel educativo, tienden a ser más propensas a comportamientos oportunistas.",
+  "keywords": [
+    "oportunismo",
+    "capital social",
+    "World Values Survey",
+    "Brasil",
+    "opportunism",
+    "social capital",
+    "World Values Survey",
+    "Brazil"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.31546",
+  "sameAs": "https://doi.org/10.14201/alh.31546"
+}

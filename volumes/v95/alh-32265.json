@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32265",
+  "name": "De la violencia de las pandillas a la violencia del estado: la nueva realidad en El Salvador",
+  "headline": "De la violencia de las pandillas a la violencia del estado: la nueva realidad en El Salvador",
+  "alternativeHeadline": "From Gang Violence to State Violence: The New Reality in El Salvador",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Alberto Martínez Reyes",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad de Valencia",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-11-17",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Tras la guerra civil, El Salvador enfrentó el auge de pandillas en un contexto de exclusión social. El Estado respondió con políticas de seguridad represivas que han criminalizado a la juventud y militarizado el espacio público, intensificadas bajo el gobierno de Nayib Bukele. Estas medidas han reproducido nuevas formas de violencia estatal. El artículo propone un enfoque alternativo basado en derechos humanos, inclusión y justicia restaurativa, aunque el autoritarismo actual dificulta su implementación.",
+  "keywords": [
+    "El Salvador",
+    "pandillas",
+    "violencia estatal",
+    "Nayib Bukele",
+    "juventud",
+    "El Salvador",
+    "gangs",
+    "state violence",
+    "Nayib Bukele",
+    "youth"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32265",
+  "sameAs": "https://doi.org/10.14201/alh.32265"
+}

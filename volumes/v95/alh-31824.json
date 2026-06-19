@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.31824",
+  "name": "El rol estratégico de América Latina en la gobernanza global: desafíos y perspectivas en un mundo en transformación",
+  "headline": "El rol estratégico de América Latina en la gobernanza global: desafíos y perspectivas en un mundo en transformación",
+  "alternativeHeadline": "The Strategic Role of Latin America in Global Governance: Challenges and Perspectives in a Transforming World",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Francesco Petrone",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Nacional de Tres de Febrero y Universitat Oberta de Catalunya",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-01-08",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "El concepto de «gobernanza global» (GG) suscita interpretaciones discordantes: algunos lo consideran una herramienta analítica útil, mientras otros destacan su déficit de legitimidad. Aunque teóricamente promueve decisiones inclusivas, esto no se refleja en la práctica. Con la transformación del sistema internacional, la exclusión de perspectivas no occidentales, como por ejemplo las latinoamericanas, revela sus limitaciones. Reformar la GG para incorporar estas narrativas es esencial para hacerla más inclusiva, alineandose así con su propósito original.",
+  "keywords": [
+    "América Latina",
+    "gobernanza global",
+    "legitimidad",
+    "teorías de las relaciones internacionales",
+    "multilateralismo",
+    "Latin America",
+    "Global Governance",
+    "Legitimacy",
+    "International Relations Theories",
+    "Multilateralism"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.31824",
+  "sameAs": "https://doi.org/10.14201/alh.31824"
+}

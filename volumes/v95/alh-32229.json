@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32229",
+  "name": "Violencia institucional desde la perspectiva de adolescentes y jóvenes en el sistema de protección",
+  "headline": "Violencia institucional desde la perspectiva de adolescentes y jóvenes en el sistema de protección",
+  "alternativeHeadline": "Institutional Violence from the Perspective of Adolescents and Young People \nin the Protection System",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Kepa Paul Larrañaga",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Complutense de Madrid",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Berta Ruiz-Benítez",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Observatorio de la Infancia y Adolescencia de Andalucía",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Ainhoa Rodríguez García de Cortázar",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad de Granada",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-11-17",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "El artículo analiza la violencia institucional del Sistema de Protección de la Infancia desde la perspectiva de adolescentes y jóvenes en acogimiento residencial o familiar en España a través de una metodología cualitativa basada en entrevistas grupales y en un análisis de redes semánticas. Emergieron 6 supracategorías sobre malestares y reivindicaciones en el sistema de protección, vinculadas con los aspectos relacionales, la calidad de los cuidados y el protagonismo o la participación de adolescentes institucionalizados. Este texto concluye con una reflexión sobre la importancia del análisis de la violencia institucional en el sistema de protección, para corregir políticas públicas y diseñar estrategias que la minimicen.",
+  "keywords": [
+    "violencia institucional",
+    "acogimiento residencial",
+    "acogimiento familiar",
+    "sistema de protección a la infancia",
+    "derechos de la infancia",
+    "institutional violence",
+    "residential care",
+    "foster care",
+    "child protection system",
+    "children rights"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32229",
+  "sameAs": "https://doi.org/10.14201/alh.32229"
+}

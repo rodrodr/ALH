@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32261",
+  "name": "Educación para la paz y escuelas internacionales en Argentina: oportunidades y restricciones",
+  "headline": "Educación para la paz y escuelas internacionales en Argentina: oportunidades y restricciones",
+  "alternativeHeadline": "Education for Peace and International Schools in Argentina: Opportunities and Constraints",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Liliana Mayer",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "CONICET/Universidad Abierta Interamericana",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Argentina"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-12-31",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "El artículo analiza las formas en que los procesos de internacionalización en el nivel educativo obligatorio se relacionan con las propuestas pedagógicas y didácticas para la educación para la paz, en países no atravesados por conflictos armados recientes como Argentina. Para este análisis, se realizó una investigación cualitativa con entrevistas en profundidad a agentes educativos de escuelas. Se aborda la conceptualización de la «ciudadanía global» y cómo esta puede relacionarse con la paz y la inclusión social.",
+  "keywords": [
+    "Educación para la paz",
+    "internacionalización",
+    "inclusión",
+    "Argentina",
+    "Peace Education",
+    "Internationalization",
+    "Inclusion",
+    "Argentina"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32261",
+  "sameAs": "https://doi.org/10.14201/alh.32261"
+}

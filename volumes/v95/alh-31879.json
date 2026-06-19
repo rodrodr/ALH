@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.31879",
+  "name": "Autocratización en tiempos de (in)seguridad: la deriva autoritaria en El Salvador, 2019-2023",
+  "headline": "Autocratización en tiempos de (in)seguridad: la deriva autoritaria en El Salvador, 2019-2023",
+  "alternativeHeadline": "Autocratization in Times of (In)Security: The Authoritarian Drift in El Salvador, 2019-2023",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Camilo González",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Pontificia Universidad Javeriana",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Colombia"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-06-23",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "El Salvador ha experimentado una reducción de la violencia criminal como consecuencia de la política de seguridad del Gobierno de Nayib Bukele. Sin embargo, su aplicación ha conducido al desmantelamiento de las instituciones democráticas. Este artículo reconstruye mediante el uso del rastreo de procesos las interacciones entre las dinámicas de seguridad y las oportunidades políticas para explicar el tránsito hacia una autocracia electoral a través de un proceso de securitización del crimen organizado.",
+  "keywords": [
+    "autocratización",
+    "democracia",
+    "El Salvador",
+    "pandillas",
+    "securitización",
+    "Autocratization",
+    "Democracy",
+    "El Salvador",
+    "Gangs",
+    "Securitisation"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.31879",
+  "sameAs": "https://doi.org/10.14201/alh.31879"
+}

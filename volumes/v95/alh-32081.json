@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32081",
+  "name": "Análisis de las emociones durante el confinamiento. Un estudio cualitativo entre estudiantes de Trabajo Social",
+  "headline": "Análisis de las emociones durante el confinamiento. Un estudio cualitativo entre estudiantes de Trabajo Social",
+  "alternativeHeadline": "Analysis of Emotions during Confinement: A Qualitative Study among Social Work Students",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Yolanda María De la Fuente-Robles",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad de Jaén",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Rosa María Díaz-Jiménez",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Pablo de Olavide",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Francisco Caravaca-Sánchez",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad de Alicante",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "María del Carmen Martín-Cano",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad de Jaén",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-08-13",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "La pandemia de COVID-19 irrumpió de forma agresiva en las vidas del alumnado universitario de Trabajo Social. Para comprender mejor las emociones que les afectaron durante el encierro, se llevó a cabo un estudio cualitativo en el que se les preguntó por Internet cómo se habían sentido. A través de textos de hasta 200 palabras, 892 estudiantes de 14 países hispanohablantes (principalmente España y México) expresaron sus relatos sobre los sentimientos experimentados. El análisis combinó estrategias deductivas e inductivas y los resultados hablan de ambivalencia emocional, con emociones positivas y negativas, mostrándose más emociones negativas en hombres, ciudades pequeñas, cursos intermedios y en España, mientras que las emociones positivas se dan más en mujeres, en entornos rurales, en cursos finales y en México. Los resultados permiten caracterizar las emociones durante el encierro, identificar la causa de las emociones en aislamiento, expresar consecuencias como la soledad o el miedo al futuro, en un contexto de crisis y vulnerabilidad social, pero con estrategias de afrontamiento resilientes y solidarias.",
+  "keywords": [
+    "emociones",
+    "COVID-19",
+    "confinamiento",
+    "metodología cualitativa",
+    "estudiantes universitarios",
+    "Trabajo Social",
+    "Emotions",
+    "COVID-19",
+    "confinement",
+    "qualitative methodology",
+    "university students",
+    "Social Work"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32081",
+  "sameAs": "https://doi.org/10.14201/alh.32081"
+}

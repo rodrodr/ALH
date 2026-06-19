@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.31875",
+  "name": "¿Dónde está el protagonismo político indígena? Análisis de disputas discursivas sobre causas indígenas brasileñas en Twitter",
+  "headline": "¿Dónde está el protagonismo político indígena? Análisis de disputas discursivas sobre causas indígenas brasileñas en Twitter",
+  "alternativeHeadline": "Where is the Indigenous Political Leadership? Analysis of Discursive Disputes about Indigenous Causes on Twitter",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Marcus A. Pereira",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidade Federal de Minas Gerais",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Brasil"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Bruno Anunciação Rocha",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidade Federal de Minas Gerais",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Brasil"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Débora Ramos Lourenço",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidade Federal de Minas Gerais",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Brasil"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-06-16",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Este artículo analiza la participación de activistas indígenas en debates discursivos relacionados con su causa en Twitter en 2021 y 2022. Identificamos la posición de los perfiles indígenas en los debates seleccionados y analizamos los matices digitales producidos por ellos. Los datos indican que en las disputas discursivas en Twitter las causas indígenas han alcanzado protagonismo, pero no los perfiles indígenas. Entre los indígenas, los perfiles de mujeres son los que alcanzan mayor protagonismo, además de la Asociación de Pueblos Indígenas de Brasil (APIB). Los mayores protagonistas son los no indígenas, los políticos, las celebridades, los periodistas y los medios de comunicación.",
+  "keywords": [
+    "activismo indígena",
+    "embate discursivo",
+    "Twitter",
+    "protagonismo",
+    "Indigenous activism",
+    "discursive clash",
+    "twitter",
+    "leadership"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.31875",
+  "sameAs": "https://doi.org/10.14201/alh.31875"
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.31961",
+  "name": "Por la razón o por la fuerza. La pacificación interna de América del Sur (1830-1929)",
+  "headline": "Por la razón o por la fuerza. La pacificación interna de América del Sur (1830-1929)",
+  "alternativeHeadline": "By Reason or by Force: The domestic pacification of South America (1830-1929)",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Raúl L. Madrid",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "USA"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Luis L. Schenoni",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "United Kingdom"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-05-02",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "A lo largo del siglo XIX, América del Sur enfrentó una serie de conflictos internos que provocaron inestabilidad en las economías y en los sistemas políticos de la región. Sin embargo, a principios del siglo XX, los niveles de violencia política en toda la región disminuyeron drásticamente. Los estudios existentes han prestado sorprendentemente poca atención a esta transformación histórica, en parte debido a la ausencia de datos exhaustivos sobre las revueltas. Basándonos en el trabajo de historiadores, creamos una base de datos sobre revueltas sudamericanas entre 1830 y 1929, y desarrollamos una tipología original para ordenar estas rebeliones. Descubrimos que las revueltas desde fuera del aparato estatal disminuyeron drásticamente durante este período, mientras que las rebeliones desde dentro del Estado, como los golpes de Estado, no lo hicieron. Asimismo, demostramos que el aumento del tamaño y la profesionalización de las Fuerzas Armadas, que se originó a partir del auge de las exportaciones y la amenaza de conflicto internacional, impulsaron la disminución de las rebeliones más severas.",
+  "keywords": [
+    "América Latina",
+    "ejército",
+    "guerras civiles",
+    "golpes de Estado",
+    "siglo XIX",
+    "Latin America",
+    "military",
+    "civil wars",
+    "coups",
+    "19th century"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.31961",
+  "sameAs": "https://doi.org/10.14201/alh.31961"
+}

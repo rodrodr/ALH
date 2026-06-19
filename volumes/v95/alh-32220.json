@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32220",
+  "name": "Evaluación de buenas prácticas en experiencias de legalización y pacificación de pandillas juveniles iberoamericanas: un estudio Delphi",
+  "headline": "Evaluación de buenas prácticas en experiencias de legalización y pacificación de pandillas juveniles iberoamericanas: un estudio Delphi",
+  "alternativeHeadline": "Evaluating Best Practices though Experiences with the Legalization and Pacification of Youth Gangs in Latin America: a Delphi Study",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Ángela Carbonell",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad de Valencia",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Sara Martínez-Gregorio",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad de Valencia",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "José Javier Navarro-Pérez",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad de Valencia",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Carles Feixa",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universitat Pompeu Fabra",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-07-17",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Las pandillas juveniles representan un desafío global, frecuentemente asociado a la violencia, lo que requiere intervenciones urgentes. Este estudio, mediante el uso del método Delphi con 27 expertos, busca elaborar una lista de buenas prácticas para políticas públicas dirigidas a la legalización y la pacificación de agrupaciones juveniles de calle (AJC). Los resultados ofrecen un consenso en siete áreas clave, proporcionando una guía esencial para diseñar y evaluar políticas centradas en prevenir la violencia, reducir actividades ilícitas e impulsar la inclusión social.",
+  "keywords": [
+    "grupos juveniles de calle",
+    "pacificación",
+    "legalización",
+    "lista de verificación",
+    "políticas públicas",
+    "street youth groups",
+    "pacification",
+    "legalization",
+    "checklist",
+    "public policies"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32220",
+  "sameAs": "https://doi.org/10.14201/alh.32220"
+}

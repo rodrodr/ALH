@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32230",
+  "name": "Jóvenes y violencia policial: los mitos construidos en Costa Rica",
+  "headline": "Jóvenes y violencia policial: los mitos construidos en Costa Rica",
+  "alternativeHeadline": "Youth and Police Violence: The Constructed Myths in Costa Rica",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Mariana Lerchundi",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "CONICET/UNRC",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Argentina"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-11-17",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "El presente artículo trata de responder a la pregunta ¿cuál es la relación entre la violencia policial y los jóvenes en un país que ha renunciado a las fuerzas armadas? La metodología empleada es cualitativa incluyendo entrevistas y talleres con jóvenes, además de documentos proporcionados por informantes clave. Los resultados se estructuran a partir de cinco mitos que guiaron este estudio sobre Costa Rica.",
+  "keywords": [
+    "Jóvenes",
+    "violencia policial",
+    "políticas públicas",
+    "Costa Rica",
+    "Youth",
+    "police violencea",
+    "public policy",
+    "Costa Rica"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32230",
+  "sameAs": "https://doi.org/10.14201/alh.32230"
+}

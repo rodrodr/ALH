@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32518",
+  "name": "Presentación",
+  "headline": "Presentación",
+  "alternativeHeadline": "Presentation",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Carlos Rene Unda-Lara",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Politécnica Salesiana",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Ecuador"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-12-28",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Los cambios que operan en la compleja dinámica de la violencia conducen a la diversificación de enfoques conceptuales y perspectivas analíticas a las que se intenta definir y caracterizar, así como a la actualización de aquellos tipos de violencia configurados décadas atrás. El debate sobre las «nuevos y viejos tipos de violencia» se centra en explicar y comprender el carácter de las relaciones entre el Estado y la sociedad. Concretamente, en la concurrencia de fuerzas sociales y políticas qu...",
+  "keywords": [],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32518",
+  "sameAs": "https://doi.org/10.14201/alh.32518"
+}

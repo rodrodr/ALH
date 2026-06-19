@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32104",
+  "name": "La Marcha del Silencio en Uruguay: abordaje semiótico de una práctica ritualizada por la memoria colectiva",
+  "headline": "La Marcha del Silencio en Uruguay: abordaje semiótico de una práctica ritualizada por la memoria colectiva",
+  "alternativeHeadline": "The «Marcha del Silencio» in Uruguay: A Semiotic Approach to a Ritualized Practice for Collective Memory",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Sebastian Moreno",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad ORT Uruguay",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Uruguay"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-09-22",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Este artículo tiene como objetivo abordar la Marcha del Silencio –una práctica ritualizada que se desarrolla anualmente en Montevideo, Uruguay– utilizando una metodología semiótica de corte sociocultural, basada en la discursividad social y, específicamente, en la producción, la circulación y el consumo de sentido. A través del estudio de un conjunto de recursos verbales, visuales y sonoros identificados en la edición 2024 de la Marcha del Silencio, así como de algunos textos producidos en el periodo previo a esta edición –creados para su circulación mediática–, en el artículo se analiza de qué manera la Marcha del Silencio significa, produce sentido y, así, obtiene su identidad a partir de la presencia de esos elementos significantes.",
+  "keywords": [
+    "memoria cultural",
+    "desaparecidos",
+    "Marcha del Silencio",
+    "dictadura",
+    "Uruguay",
+    "semiótica",
+    "cultural memory",
+    "disappeared",
+    "Marcha del Silencio",
+    "Dictatorships",
+    "Uruguay",
+    "Semiotics"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32104",
+  "sameAs": "https://doi.org/10.14201/alh.32104"
+}

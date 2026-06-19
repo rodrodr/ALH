@@ -1,0 +1,73 @@
+# América Latina Hoy (ALH) Journal Metadata
+
+> Este archivo contiene un mapa estructurado de los artículos y volúmenes de la revista ALH, optimizado para rastreadores de IA, webfetchers y LLMs.
+
+## Catálogos y Recursos Globales
+- [catalog.json](./catalog.json): Base de datos estructurada en JSON con metadatos resumidos de todos los artículos.
+- [README.md](./README.md): Documentación del repositorio y guía de consulta para agentes de IA.
+
+## Artículos por Volumen y Fecha de Publicación
+
+### Volumen 95
+
+- [Educación para la paz y escuelas internacionales en Argentina: oportunidades y restricciones](./volumes/v95/alh-32261.md) - Liliana Mayer (2025)
+  *Resumen:* El artículo analiza las formas en que los procesos de internacionalización en el nivel educativo obligatorio se relacionan con las propuestas pedagógicas y d...
+  *DOI:* https://doi.org/10.14201/alh.32261
+- [Segmentación escolar, segregación residencial y movilidad estudiantil en una ciudad intermedia de Argentina](./volumes/v95/alh-32221.md) - María Marta Formichella, Natalia Krüger, Marina Tortul (2025)
+  *Resumen:* El estudio aborda, a través de una estrategia cuantitativa, la dimensión territorial de las desigualdades educativas en el nivel medio en la localidad de Bah...
+  *DOI:* https://doi.org/10.14201/alh.32221
+- [Presentación](./volumes/v95/alh-32518.md) - Carlos Rene Unda-Lara (2025)
+  *Resumen:* Los cambios que operan en la compleja dinámica de la violencia conducen a la diversificación de enfoques conceptuales y perspectivas analíticas a las que se ...
+  *DOI:* https://doi.org/10.14201/alh.32518
+- [Clivajes sin partidos: el populismo y sus votantes en Perú](./volumes/v95/alh-32458.md) - Rodrigo Barrenechea, Daniel Encinas (2025)
+  *Resumen:* Perú, pese a su volatilidad electoral y ausencia de partidos estables, presenta un patrón predecible de voto en torno a clivajes socioeconómicos, étnicos y t...
+  *DOI:* https://doi.org/10.14201/alh.32458
+- [De la violencia de las pandillas a la violencia del estado: la nueva realidad en El Salvador](./volumes/v95/alh-32265.md) - Alberto Martínez Reyes (2025)
+  *Resumen:* Tras la guerra civil, El Salvador enfrentó el auge de pandillas en un contexto de exclusión social.
+  *DOI:* https://doi.org/10.14201/alh.32265
+- [El biodrama como dispositivo para transformar las violencias de género en la juventud ecuatoriana](./volumes/v95/alh-32264.md) - Paz Guarderas-Albuja, Cynthia Carofilis-Cedeño, Carlos Reyes-Valenzuela, Yaderlin Milena Mantilla-Briceño (2025)
+  *Resumen:* Las violencias de género en el Ecuador se han intensificado y la juventud reproduce sexismos y concepciones que refuerzan un orden que las legitima.
+  *DOI:* https://doi.org/10.14201/alh.32264
+- [Jóvenes y violencia policial: los mitos construidos en Costa Rica](./volumes/v95/alh-32230.md) - Mariana Lerchundi (2025)
+  *Resumen:* El presente artículo trata de responder a la pregunta ¿cuál es la relación entre la violencia policial y los jóvenes en un país que ha renunciado a las fuerz...
+  *DOI:* https://doi.org/10.14201/alh.32230
+- [Violencia institucional desde la perspectiva de adolescentes y jóvenes en el sistema de protección](./volumes/v95/alh-32229.md) - Kepa Paul Larrañaga, Berta Ruiz-Benítez, Ainhoa Rodríguez García de Cortázar (2025)
+  *Resumen:* El artículo analiza la violencia institucional del Sistema de Protección de la Infancia desde la perspectiva de adolescentes y jóvenes en acogimiento residen...
+  *DOI:* https://doi.org/10.14201/alh.32229
+- [Reclutamiento de niños, niñas, adolescentes y jóvenes mexicanos en el crimen organizado: una revisión sistemática de sus causas y consecuencias](./volumes/v95/alh-32228.md) - Juan Antonio Taguenca Belmonte, Robert González García, M.ª del Rocío Vega Budar (2025)
+  *Resumen:* Este artículo examina el ingreso de los niños, niñas, adolescentes y jóvenes (NNAJ) en las organizaciones criminales mediante el reclutamiento, la importanci...
+  *DOI:* https://doi.org/10.14201/alh.32228
+- [El perfil sociodemográfico de las personas con comportamiento oportunista en Brasil](./volumes/v95/alh-31546.md) - Lilian Lopes Ribeiro, Francisca Ana Mara Alves Da Silva, Marcelo Miranda Melo (2025)
+  *Resumen:* El objetivo del estudio es identificar el perfil sociodemográfico de personas propensas a comportamientos oportunistas en Brasil a partir de datos extraídos ...
+  *DOI:* https://doi.org/10.14201/alh.31546
+- [Territorios colectivos de comunidades negras en Colombia y su potencial en la gestión del desarrollo endógeno sostenible](./volumes/v95/alh-32139.md) - Karen Jineth Bejarano Cordoba, Jeferson Asprilla Perea (2025)
+  *Resumen:* Los territorios colectivos de comunidades negras en Colombia «TCCN» son asentamientos que hacen efectivo el derecho a la igualdad en grupos humanos histórica...
+  *DOI:* https://doi.org/10.14201/alh.32139
+- [La Marcha del Silencio en Uruguay: abordaje semiótico de una práctica ritualizada por la memoria colectiva](./volumes/v95/alh-32104.md) - Sebastian Moreno (2025)
+  *Resumen:* Este artículo tiene como objetivo abordar la Marcha del Silencio –una práctica ritualizada que se desarrolla anualmente en Montevideo, Uruguay– utilizando un...
+  *DOI:* https://doi.org/10.14201/alh.32104
+- [Análisis de las emociones durante el confinamiento. Un estudio cualitativo entre estudiantes de Trabajo Social](./volumes/v95/alh-32081.md) - Yolanda María De la Fuente-Robles, Rosa María Díaz-Jiménez, Francisco Caravaca-Sánchez, María del Carmen Martín-Cano (2025)
+  *Resumen:* La pandemia de COVID-19 irrumpió de forma agresiva en las vidas del alumnado universitario de Trabajo Social.
+  *DOI:* https://doi.org/10.14201/alh.32081
+- [Evaluación de buenas prácticas en experiencias de legalización y pacificación de pandillas juveniles iberoamericanas: un estudio Delphi](./volumes/v95/alh-32220.md) - Ángela Carbonell, Sara Martínez-Gregorio, José Javier Navarro-Pérez, Carles Feixa (2025)
+  *Resumen:* Las pandillas juveniles representan un desafío global, frecuentemente asociado a la violencia, lo que requiere intervenciones urgentes.
+  *DOI:* https://doi.org/10.14201/alh.32220
+- [Autocratización en tiempos de (in)seguridad: la deriva autoritaria en El Salvador, 2019-2023](./volumes/v95/alh-31879.md) - Camilo González (2025)
+  *Resumen:* El Salvador ha experimentado una reducción de la violencia criminal como consecuencia de la política de seguridad del Gobierno de Nayib Bukele.
+  *DOI:* https://doi.org/10.14201/alh.31879
+- [¿Dónde está el protagonismo político indígena? Análisis de disputas discursivas sobre causas indígenas brasileñas en Twitter](./volumes/v95/alh-31875.md) - Marcus A. Pereira, Bruno Anunciação Rocha, Débora Ramos Lourenço (2025)
+  *Resumen:* Este artículo analiza la participación de activistas indígenas en debates discursivos relacionados con su causa en Twitter en 2021 y 2022.
+  *DOI:* https://doi.org/10.14201/alh.31875
+- [Repensando la cooperación internacional al desarrollo: un acercamiento a la visión de pueblos y nacionalidades indígenas del Ecuador](./volumes/v95/alh-31794.md) - Cristina Sesto Yagüe, Miguel Ángel López Navarro (2025)
+  *Resumen:* Con la presente investigación se pretende contribuir a la literatura crítica con las dinámicas de la cooperación internacional al desarrollo, poniendo en pri...
+  *DOI:* https://doi.org/10.14201/alh.31794
+- [Reconstrucción ideológica del Chavismo: entre Bolívar y el populismo](./volumes/v95/alh-31789.md) - Álvaro García-Mayoral Frauca (2025)
+  *Resumen:* Simón Bolívar ocupó un papel central como mito fundacional de la nación venezolana.
+  *DOI:* https://doi.org/10.14201/alh.31789
+- [Por la razón o por la fuerza. La pacificación interna de América del Sur (1830-1929)](./volumes/v95/alh-31961.md) - Raúl L. Madrid, Luis L. Schenoni (2025)
+  *Resumen:* A lo largo del siglo XIX, América del Sur enfrentó una serie de conflictos internos que provocaron inestabilidad en las economías y en los sistemas políticos...
+  *DOI:* https://doi.org/10.14201/alh.31961
+- [El rol estratégico de América Latina en la gobernanza global: desafíos y perspectivas en un mundo en transformación](./volumes/v95/alh-31824.md) - Francesco Petrone (2025)
+  *Resumen:* El concepto de «gobernanza global» (GG) suscita interpretaciones discordantes: algunos lo consideran una herramienta analítica útil, mientras otros destacan ...
+  *DOI:* https://doi.org/10.14201/alh.31824
+

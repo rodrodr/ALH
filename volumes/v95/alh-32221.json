@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32221",
+  "name": "Segmentación escolar, segregación residencial y movilidad estudiantil en una ciudad intermedia de Argentina",
+  "headline": "Segmentación escolar, segregación residencial y movilidad estudiantil en una ciudad intermedia de Argentina",
+  "alternativeHeadline": "School Segmentation, Residential Segregation, and Student Mobility in a Mid-Size City in Argentina",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "María Marta Formichella",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Instituto de Investigaciones Económicas y Sociales del Sur (IIESS, UNS-CONICET) y Departamento de Economía, Universidad Nacional del Sur",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Argentina"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Natalia Krüger",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Instituto de Investigaciones Económicas y Sociales del Sur (IIESS, UNS-CONICET) y Departamento de Economía, Universidad Nacional del Sur",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Argentina"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Marina Tortul",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Instituto de Investigaciones Económicas y Sociales del Sur (IIESS, UNS-CONICET) y Departamento de Economía, Universidad Nacional del Sur",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Argentina"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-12-31",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "El estudio aborda, a través de una estrategia cuantitativa, la dimensión territorial de las desigualdades educativas en el nivel medio en la localidad de Bahía Blanca, Argentina. Ante la fragmentación socioespacial de la ciudad, se indaga en cómo la diferenciación de la oferta escolar se articula con su distribución desigual en el territorio y con la movilidad de la población estudiantil. Estas dinámicas configuran posesiones disímiles de capital espacial y comprometen la equidad educativa.",
+  "keywords": [
+    "segmentación escolar",
+    "segregación",
+    "movilidad urbana",
+    "capital espacial",
+    "ciudades intermedias",
+    "school segmentation",
+    "segregation",
+    "urban mobility",
+    "spatial capital",
+    "intermediate cities"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32221",
+  "sameAs": "https://doi.org/10.14201/alh.32221"
+}

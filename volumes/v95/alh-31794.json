@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.31794",
+  "name": "Repensando la cooperación internacional al desarrollo: un acercamiento a la visión de pueblos y nacionalidades indígenas del Ecuador",
+  "headline": "Repensando la cooperación internacional al desarrollo: un acercamiento a la visión de pueblos y nacionalidades indígenas del Ecuador",
+  "alternativeHeadline": "Rethinking International Development Cooperation: An Approach to the Perspectives of Ecuador’s Indigenous Peoples and Nationalities",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Cristina Sesto Yagüe",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universitat Jaume I",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Miguel Ángel López Navarro",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universitat Jaume I",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-05-21",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Con la presente investigación se pretende contribuir a la literatura crítica con las dinámicas de la cooperación internacional al desarrollo, poniendo en primer plano a la población receptora de ayuda al desarrollo, en este caso representada por pueblos indígenas de Ecuador. Los resultados permiten aproximarse a un modelo de cooperación adecuada, así como articular un debate en torno a una posible cooperación basada en la transmisión de cosmovisiones desde pueblos del Sur hacia sociedades del Norte.",
+  "keywords": [
+    "alternativas al desarrollo",
+    "Cooperación Internacional Transformadora",
+    "pueblos indígenas",
+    "cooperación Sur-Norte",
+    "Development alternatives",
+    "Transformative International Cooperation",
+    "Indigenous Peoples",
+    "South-North Cooperation"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.31794",
+  "sameAs": "https://doi.org/10.14201/alh.31794"
+}

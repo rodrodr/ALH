@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.31789",
+  "name": "Reconstrucción ideológica del Chavismo: entre Bolívar y el populismo",
+  "headline": "Reconstrucción ideológica del Chavismo: entre Bolívar y el populismo",
+  "alternativeHeadline": "Chavismo’s Ideological Reconstruction: Between Bolívar and Populism",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Álvaro García-Mayoral Frauca",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Complutense de Madrid",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "España"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-05-06",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Simón Bolívar ocupó un papel central como mito fundacional de la nación venezolana. Desde entonces, líderes de distinto signo ideológico han pretendido adjudicarse su legado. En el caso de Hugo Chávez, su visión común con Bolívar en áreas como el antiimperialismo o en la búsqueda de una integración latinoamericana permiten vincular ambas figuras. Sin embargo, existen otras referencias históricas como Simón Rodríguez o Ezequiel Zamora que completan el abanico de rasgos ideológicos del chavismo. De esta manera, el presente trabajo busca explorar cuáles son las similitudes ideológicas entre dos figuras clave en la construcción de la identidad venezolana. Además, se buscará reflexionar sobre el papel decisivo que juega la apropiación de figuras históricas en los procesos de construcción de una hegemonía ideológica.",
+  "keywords": [
+    "Simón Bolívar",
+    "Chavismo",
+    "Venezuela",
+    "Integración latinoamericana",
+    "América Latina",
+    "Simón Bolívar",
+    "Chavismo",
+    "Venezuela",
+    "Latin American Regionalism",
+    "Latin America"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.31789",
+  "sameAs": "https://doi.org/10.14201/alh.31789"
+}

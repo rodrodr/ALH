@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.14201/alh.32139",
+  "name": "Territorios colectivos de comunidades negras en Colombia y su potencial en la gestión del desarrollo endógeno sostenible",
+  "headline": "Territorios colectivos de comunidades negras en Colombia y su potencial en la gestión del desarrollo endógeno sostenible",
+  "alternativeHeadline": "Black Communities’ Collective Territories in Colombia and Their Management Potential toward Sustainable Endogenous Development",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Karen Jineth Bejarano Cordoba",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Tecnológica del Chocó",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Colombia"
+        }
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Jeferson Asprilla Perea",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Tecnológica del Chocó",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Colombia"
+        }
+      }
+    }
+  ],
+  "datePublished": "2025-09-29",
+  "volumeNumber": "95",
+  "isPartOf": {
+    "@type": "PublicationVolume",
+    "volumeNumber": "95",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "América Latina Hoy",
+      "issn": [
+        "2340-4396",
+        "1130-2887"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ediciones Universidad de Salamanca"
+      }
+    }
+  },
+  "description": "Los territorios colectivos de comunidades negras en Colombia «TCCN» son asentamientos que hacen efectivo el derecho a la igualdad en grupos humanos históricamente discriminados, donde se desarrollan prácticas tradicionales de producción, convivencia y subsistencia. La investigación busca contribuir a la comprensión teórica del potencial de los TCCN como actores de procesos de gestión de desarrollo endógeno sostenible. Los resultados se convierten en proposición de acciones de desarrollo ajustadas a la mejora de condiciones de vida para las comunidades negras.",
+  "keywords": [
+    "territorios colectivos",
+    "comunidades negras",
+    "desarrollo endógeno sostenible",
+    "Objetivos de Desarrollo Sostenible",
+    "collective territories",
+    "black communities",
+    "endogenous sustainable development",
+    "Sustainable Development Goals"
+  ],
+  "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": "10.14201/alh.32139",
+  "sameAs": "https://doi.org/10.14201/alh.32139"
+}
